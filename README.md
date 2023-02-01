@@ -30,11 +30,16 @@
   
   # Dashbord of my project.
   
-  ![Screenshot (211)](https://user-images.githubusercontent.com/76069126/216122330-69f3638c-2df4-4aa8-9162-7af5dbd54c42.png)
-  
-  ![Screenshot (210)](https://user-images.githubusercontent.com/76069126/216122754-4b312750-ad7b-4943-b3ce-a1b93429ee87.png)
+    ![IMG_3757](https://user-images.githubusercontent.com/76069126/216123191-d71fde38-cca6-48bd-aa1d-da35e613ae93.jpeg)
+   
+   ![IMG_3756](https://user-images.githubusercontent.com/76069126/216123251-39dab59b-9f21-44f0-a240-3e1c2815fde5.jpeg)
+   
+   ![IMG_3758](https://user-images.githubusercontent.com/76069126/216123295-d7459a20-b543-4307-b547-b9dd52b6beb0.jpeg)
 
-  ![Screenshot (212)](https://user-images.githubusercontent.com/76069126/216122514-c0497d39-c4c0-4172-b1d4-be44433c05ee.png)
+   
+
+
+
 
   
   
